@@ -1,7 +1,7 @@
 ---
 title: "Data transformation with dplyr"
 subtitle: "Practice with penguins"
-author: "Ella Haechler"
+author: "Ella Paula Haechler"
 format:
   html:
     embed-resources: true
